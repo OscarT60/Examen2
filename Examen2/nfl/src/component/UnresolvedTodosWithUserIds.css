@@ -1,0 +1,25 @@
+/* UnresolvedTodosWithUserIds.css */
+.unresolved-todos-with-userids-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .unresolved-todos-with-userids-table th,
+  .unresolved-todos-with-userids-table td {
+    border: 1px solid #4ba7be;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .unresolved-todos-with-userids-table th {
+    background-color: #4ba7be;
+  }
+  
+  .unresolved-todos-with-userids-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .unresolved-todos-with-userids-table tr:hover {
+    background-color: #4ba7be;
+  }
+  

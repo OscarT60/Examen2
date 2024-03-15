@@ -1,0 +1,25 @@
+/* UnresolvedTodos.css */
+.unresolved-todos-table {
+  max-width: 350px; /* Puedes ajustar el valor según tus necesidades */
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.unresolved-todos-table th,
+.unresolved-todos-table td {
+  border: 1px solid #4ba7be;
+  padding: 8px;
+  text-align: left;
+}
+
+.unresolved-todos-table th {
+  background-color: #4ba7be;
+}
+
+.unresolved-todos-table tr:nth-child(even) {
+  background-color: #4ba7be;
+}
+
+.unresolved-todos-table tr:hover {
+  background-color: #4ba7be;
+}

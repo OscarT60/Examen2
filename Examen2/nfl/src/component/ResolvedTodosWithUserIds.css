@@ -1,0 +1,17 @@
+/* ResolvedTodosWithUserIds.css */
+.resolved-todos-userids-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resolved-todos-userids-list li {
+    margin-bottom: 8px;
+    background-color: #4ba7be;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .resolved-todos-userids-list li:last-child {
+    margin-bottom: 0;
+  }
+  
